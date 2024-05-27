@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jj42m5y74pa5ts21?svg=true)](https://ci.appveyor.com/project/Sashkasam/set-dz)
 # Домашнее задание к лекции «Контейнеры»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
